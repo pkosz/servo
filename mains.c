@@ -4,7 +4,7 @@
 int main(void) {
     KeyBoardInit();
     ServoInit(200);
-		ServoInit(100);  
+		  
 		        
 		   
     while(1) {
