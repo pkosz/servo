@@ -19,7 +19,7 @@ int main(void) {
             ServoGoTo(24);
         }
 				else if(eKeyboardRead() == BUTTON_3) {
-            ServoGoTo(36);
+            ServoGoTo(10);
         }
     }
 }
